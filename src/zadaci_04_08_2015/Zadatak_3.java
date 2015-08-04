@@ -17,7 +17,7 @@ public class Zadatak_3 {
 		while (number > 0) {
 			// dekadni broj postepeno dijelimo sa 2 a ostatak nakon svakog
 			// dijeljenja dodajemo, te na taj nacin dobijamo binarni
-			// ekvivalent dekadnog broja
+			// ekvivalent dekadnog broja 
 			binary = (short) (number % 2) + binary;
 			number /= 2;
 		}

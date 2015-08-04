@@ -10,7 +10,7 @@ public class Zadatak_2 {
 
 		java.util.Scanner input = new java.util.Scanner(System.in);
 		System.out.println("Unesite karakter: ");
-		// korisnik unosi karakter
+		// korisnik unosi karakter 
 		char ch = input.next().charAt(0);
 		int unicode = (int) ch;// vrsimo typecasting karaktera u broj
 		// Ispisujemo rezultat

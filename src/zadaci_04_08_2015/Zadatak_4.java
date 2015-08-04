@@ -17,7 +17,7 @@ public class Zadatak_4 {
 											// proslijedjeni broj
 		if (formatedNum.length() >= width) {
 			// ukoliko je duzina proslijedjenog broja veca od trazene duzine,
-			// vracamo samo string broja
+			// vracamo samo string broja 
 			formatedNum = "" + number;
 		} else {
 			// u suprotnom, racunamo duzinu prefixa

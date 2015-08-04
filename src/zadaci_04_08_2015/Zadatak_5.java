@@ -22,7 +22,7 @@ public class Zadatak_5 {
 					// ukoliko u array-u pronadjemo broj jednak onom koji
 					// provjeravamo
 					isDistinct = false;// taj broj nije jedinstven
-					break;// vracamo se u spoljasnju petlju
+					break;// vracamo se u spoljasnju petlju 
 				}
 
 			}

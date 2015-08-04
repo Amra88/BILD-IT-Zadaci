@@ -14,7 +14,7 @@ public class Zadatak_1 {
 		int ascii = input.nextInt();
 		char ch = (char) ascii;// typecasting unesenog broja; dobijamo karakter
 								// za uneseni broj
-		// Ispisujemo rezultat
+		// Ispisujemo rezultat 
 		System.out.println("\nKarakter sa brojem " + ascii + " je: " + ch);
 	}
 }
